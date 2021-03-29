@@ -13,59 +13,108 @@ blue : Element.Color
 blue =
     Element.rgb255 0 68 204
 
+
 ceruleanBlue : Element.Color
-ceruleanBlue =              Element.rgb255 0 117 244
+ceruleanBlue =
+    Element.rgb255 0 117 244
+
+
 greenBlue : Element.Color
-greenBlue = Element.rgb255  0 210 119
+greenBlue =
+    Element.rgb255 0 210 119
+
+
 marigold : Element.Color
-marigold = Element.rgb255  255 192 0
+marigold =
+    Element.rgb255 255 192 0
+
+
 neonRed : Element.Color
-neonRed = Element.rgb255  255 0 54
+neonRed =
+    Element.rgb255 255 0 54
+
+
 cornflower : Element.Color
-cornflower = Element.rgb255 104 88 255
+cornflower =
+    Element.rgb255 104 88 255
+
+
 dark : Element.Color
-dark = Element.rgb255 24 28 35
+dark =
+    Element.rgb255 24 28 35
+
+
 charcoalGrey : Element.Color
-charcoalGrey = Element.rgb255 63 71 85
+charcoalGrey =
+    Element.rgb255 63 71 85
+
+
 battleshipGrey : Element.Color
-battleshipGrey = Element.rgb255 112 121 138
+battleshipGrey =
+    Element.rgb255 112 121 138
+
+
 blueyGrey : Element.Color
-blueyGrey = Element.rgb255 151 159 175
+blueyGrey =
+    Element.rgb255 151 159 175
+
+
 blueGrey : Element.Color
-blueGrey = Element.rgb255 134 139 149
+blueGrey =
+    Element.rgb255 134 139 149
+
+
 blueShade : Element.Color
-blueShade = Element.rgb255 119 163 236
+blueShade =
+    Element.rgb255 119 163 236
+
+
 lightBlueGrey : Element.Color
-lightBlueGrey = Element.rgb255 193 199 210
+lightBlueGrey =
+    Element.rgb255 193 199 210
+
+
 veryLightBlue : Element.Color
-veryLightBlue = Element.rgb255 230 232 237
+veryLightBlue =
+    Element.rgb255 230 232 237
+
+
 paleGrey : Element.Color
-paleGrey = Element.rgb255 245 246 248
+paleGrey =
+    Element.rgb255 245 246 248
+
+
 white : Element.Color
-white = Element.rgb255 255 255 255
+white =
+    Element.rgb255 255 255 255
+
+
 apple : Element.Color
-apple = Element.rgb255 128 201 60
+apple =
+    Element.rgb255 128 201 60
+
+
 tangerine : Element.Color
-tangerine = Element.rgb255 255 144 14
+tangerine =
+    Element.rgb255 255 144 14
+
+
 reddishOrange : Element.Color
-reddishOrange = Element.rgb255 255 96 27
+reddishOrange =
+    Element.rgb255 255 96 27
+
 
 battleShipGrey : Element.Color
-battleShipGrey = Element.rgb255 112 121 138
+battleShipGrey =
+    Element.rgb255 112 121 138
+
+
 rosa : Element.Color
-rosa = Element.rgb255   255 146 175
--- palePeach = Element.rgb255 ffebac
--- paleTurquoise = Element.rgb255 a0f4d4
--- coolGrey = Element.rgb255 9ea1a5
--- orangishRed = Element.rgb255 e01313
--- veryLightPink = Element.rgb255 e8e8e8
+rosa =
+    Element.rgb255 255 146 175
 
 
 
-
-
-
--- import Html.Attributes exposing (src)
 ---- MODEL ----
 
 
